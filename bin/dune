@@ -1,0 +1,4 @@
+(executable
+ (public_name desert_monkey)
+ (name main)
+ (libraries Interpreter))
